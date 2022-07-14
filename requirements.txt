@@ -1,0 +1,6 @@
+pandas
+string
+random
+operator
+collections
+itertools
